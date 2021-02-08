@@ -1,0 +1,5 @@
+echo"# PizzaAlgo" >>README.md
+git init
+git addREADME.md
+git commit --m "first commit"
+
